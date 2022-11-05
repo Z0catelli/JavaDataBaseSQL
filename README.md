@@ -1,2 +1,2 @@
 # JavaDataBaseSQL
-Projeto de banco de dados com Java e MySQL
+Projeto para atualização de umna tabela do banco de dados MySQL utilizando sistema em Java.
